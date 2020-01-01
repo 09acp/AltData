@@ -1,19 +1,19 @@
 ## Google Trends Project
-- Alex Papa 01/01/2020
+Alex Papa 01/01/2020
 
 #### __Stage 1__
 
-[] Create list of search terms
+- [ ] Create list of search terms
 
-[] Data Wrangling
-  [] Stemming
-  [] Remove stop-words
+- [ ] Data Wrangling
+  - [ ] Stemming
+  - [ ] Remove stop-words
 
-[] PCA
+- [ ] PCA
 
-[] DASH Visualization
-  [] Python
-  [] R
+- [ ] DASH Visualization
+  - [ ] Python
+  - [ ] R
 
 
 #### Additional Ideas
