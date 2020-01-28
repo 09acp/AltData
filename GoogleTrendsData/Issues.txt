@@ -1,0 +1,5 @@
+- google correlate has been discontinued 
+- google terms data have many gaps and their values are static
+- Issue arose from querying multiple terms together
+   - the ratio of searches is lost 
+
